@@ -1,0 +1,10 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Nest.js
+dist/
